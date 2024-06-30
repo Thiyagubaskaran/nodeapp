@@ -2,7 +2,7 @@
 
 Simple node.js app that servers  "Welcome to CLOUD ASEEM  & Credit with Thanks to - A Monk in Cloud"
 
-Great for testing simple deployments on Clouds
+Great for testing simple deployments on Cloudss
 
 ## Step 1: Install NodeJS and NPM using nvm
 Install node version manager (nvm) by typing the following at the command line.
